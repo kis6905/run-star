@@ -1,2 +1,4 @@
-# run-star
-run-star
+## RunStar 란?
+달리기와 커뮤니티를 더한 서비스
+
+
